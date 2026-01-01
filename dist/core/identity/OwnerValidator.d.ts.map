@@ -1,0 +1,1 @@
+{"version":3,"file":"OwnerValidator.d.ts","sourceRoot":"","sources":["../../../src/core/identity/OwnerValidator.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAE,MAAM,2BAA2B,CAAC;AAazD,qBAAa,cAAc;IACzB,OAAO,CAAC,QAAQ,CAAC,OAAO,CAAS;;IAc1B,OAAO,CAAC,QAAQ,EAAE,YAAY,GAAG,OAAO;IAWxC,UAAU,IAAI,MAAM;CAG5B"}
